@@ -1,0 +1,31 @@
+## USEFUL COMPOSER PACKAGES
+
+# For sending emails from PHP, it includes a self server to do so.
+    - phpmailer/phpmailer
+
+# Makes easier working with Date, Time and DateTime elements.
+    - nesbot/carbon
+
+# The Console component eases the creation of beautiful and testable command line interfaces.
+    - symfony/console
+
+# Makes easier working with Redis servers.
+    - redis/predis
+
+# Makes easier logging everything from the php code.
+    - monolog/monolog
+
+# Faker is a PHP library that generates fake data for you (person data, paragraph, images, everything).
+    - fzaninotto/faker
+#
+    -
+#
+    -
+#
+    -
+# Additional PHP libraries for projects
+    - https://www.programmableweb.com/news/15-best-php-libraries-every-developer-should-know/analysis/2015/11/18
+    - https://tutorialzine.com/2017/01/20-awesome-php-libraries-for-early-2017
+
+# Library for working with images and layers in PHP
+    - https://phpimageworkshop.com/
